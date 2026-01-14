@@ -50,6 +50,8 @@ The system also includes a **web-based interface** for user interaction and real
 ---
 
 ## 📁 Project Structure
+
+```text
 PCOS-Prediction/
 │
 ├── backend/
