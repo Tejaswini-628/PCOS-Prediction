@@ -53,21 +53,19 @@ The system also includes a **web-based interface** for user interaction and real
 PCOS-Prediction/
 │
 ├── backend/
-│   ├── model.py            # Machine learning model training & evaluation
-│   ├── app.py              # Flask API for prediction service
+│   ├── model.py            # Model training and evaluation
+│   ├── app.py              # Flask API
 │   └── requirements.txt    # Backend dependencies
 │
 ├── frontend/
-│   ├── index.html          # User interface
-│   ├── script.js           # Frontend logic & API calls
-│   └── styles.css          # UI styling
+│   ├── index.html          # User Interface
+│   ├── script.js           # Frontend logic
+│   └── styles.css          # Styling
 │
-├── data/                   # Dataset files (if included)
-│
-├── model/                  # Trained & saved ML model
-│
-├── README.md               # Project documentation
-│
-└── .gitignore              # Files and folders ignored by Git
+├── data/                   # Dataset (if included)
+├── model/                  # Saved ML model
+├── README.md
+└── .gitignore
+
 
 ---
